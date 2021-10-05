@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Askia Toure Interview, 2004" ] },
+    "summary": { "en": [ "John H. Bracey Jr. interviews Askia M. Touré, camera stays on Toure" ] },
+    "items": [
+    ]
+}
