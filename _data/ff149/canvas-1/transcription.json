@@ -14,14 +14,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Askia A-s-k-i-a, M. middle initial, Touré, T-o-u-r-é.",
+        "value": "<img src=\"https://www.baystatebanner.com/wp-content/uploads/2018/03/Askia-Toure_t620x620_c620x620-1.jpg\" alt=\"Askia Touré\">",
         "format": "text/plain"
       },
       "target": {
         "source": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "7.866927,16.191233"
+          "type": "PointSelector",
+          "t": "0"
         }
       }
     },
@@ -35,7 +35,28 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "John Bracey, B-r-a-c-e-y. ",
+        "value": "<b>Askia A-s-k-i-a, M.</b> middle initial, <b>Touré, T-o-u-r-é.</b>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "7.866927,16.191233"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"blue\">John Bracey, B-r-a-c-e-y.</font>",
         "format": "text/plain"
       },
       "target": {
@@ -48,7 +69,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-2.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-3.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -69,7 +90,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-3.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-4.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -90,7 +111,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-4.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-5.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -111,7 +132,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-5.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-6.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -132,7 +153,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-6.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-7.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -153,7 +174,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-7.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-8.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -174,7 +195,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-8.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-9.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -195,7 +216,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-9.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-10.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -216,7 +237,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-10.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-11.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -237,7 +258,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-11.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-12.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -258,7 +279,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-12.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-13.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -279,7 +300,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-13.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-14.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -300,7 +321,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-14.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-15.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -321,7 +342,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-15.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-16.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -342,7 +363,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-16.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-17.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -363,7 +384,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-17.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-18.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -384,7 +405,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-18.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-19.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -405,7 +426,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-19.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-20.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -426,7 +447,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-20.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-21.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -447,7 +468,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-21.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-22.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -468,7 +489,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-22.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-23.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -489,7 +510,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-23.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-24.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -510,7 +531,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-24.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-25.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -531,7 +552,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-25.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-26.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -552,7 +573,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-26.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-27.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -573,7 +594,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-27.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-28.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -594,7 +615,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-28.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-29.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -615,7 +636,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-29.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-30.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -636,7 +657,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-30.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-31.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -657,7 +678,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-31.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-32.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -678,7 +699,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-32.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-33.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -699,7 +720,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-33.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-34.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -720,7 +741,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-34.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-35.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -741,7 +762,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-35.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-36.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -762,7 +783,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-36.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-37.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -783,7 +804,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-37.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-38.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -804,7 +825,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-38.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-39.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -825,7 +846,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-39.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-40.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -846,7 +867,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-40.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-41.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -867,7 +888,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-41.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-42.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -888,7 +909,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-42.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-43.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -909,7 +930,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-43.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-44.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -930,7 +951,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-44.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-45.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -951,7 +972,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-45.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-46.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -972,7 +993,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-46.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-47.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -993,7 +1014,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-47.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-48.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1014,7 +1035,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-48.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-49.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1035,7 +1056,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-49.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-50.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1056,7 +1077,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-50.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-51.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1077,7 +1098,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-51.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-52.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1098,7 +1119,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-52.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-53.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1119,7 +1140,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-53.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-54.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1140,7 +1161,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-54.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-55.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1161,7 +1182,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-55.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-56.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1182,7 +1203,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-56.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-57.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1203,7 +1224,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-57.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-58.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1224,7 +1245,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-58.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-59.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1245,7 +1266,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-59.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-60.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1266,7 +1287,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-60.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-61.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1287,7 +1308,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-61.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-62.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1308,7 +1329,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-62.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-63.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1329,7 +1350,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-63.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-64.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1350,7 +1371,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-64.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-65.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1371,7 +1392,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-65.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-66.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1392,7 +1413,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-66.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-67.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1413,7 +1434,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-67.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-68.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1434,7 +1455,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-68.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-69.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1455,7 +1476,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-69.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-70.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1476,7 +1497,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-70.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-71.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1497,7 +1518,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-71.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-72.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1518,7 +1539,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-72.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-73.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1539,7 +1560,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-73.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-74.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1560,7 +1581,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-74.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-75.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1581,7 +1602,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-75.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-76.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1602,7 +1623,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-76.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-77.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1623,7 +1644,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-77.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-78.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1644,7 +1665,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-78.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-79.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1665,7 +1686,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-79.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-80.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1686,7 +1707,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-80.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-81.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1707,7 +1728,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-81.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-82.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1728,7 +1749,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-82.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-83.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1749,7 +1770,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-83.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-84.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1770,7 +1791,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-84.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-85.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1791,7 +1812,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-85.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-86.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1812,7 +1833,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-86.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-87.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1833,7 +1854,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-87.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-88.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1854,7 +1875,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-88.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-89.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1875,7 +1896,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-89.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-90.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1896,7 +1917,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-90.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-91.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1917,7 +1938,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-91.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-92.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1938,7 +1959,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-92.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-93.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1959,7 +1980,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-93.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-94.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1980,7 +2001,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-94.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-95.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2001,7 +2022,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-95.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-96.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2022,7 +2043,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-96.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-97.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2043,7 +2064,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-97.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-98.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2064,7 +2085,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-98.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-99.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2085,7 +2106,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-99.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-100.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2106,7 +2127,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-100.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-101.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2127,7 +2148,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-101.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-102.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2148,7 +2169,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-102.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-103.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2169,7 +2190,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-103.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-104.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2190,7 +2211,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-104.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-105.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2211,7 +2232,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-105.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-106.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2232,7 +2253,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-106.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-107.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2253,7 +2274,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-107.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-108.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2274,7 +2295,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-108.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-109.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2295,7 +2316,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-109.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-110.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -2316,7 +2337,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-110.json",
+      "id": "https://sizemoec.github.io/FFPC-FF149-Askia-Toure-Interview-04/ff149/canvas-1/canvas/transcription-annotation-111.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
